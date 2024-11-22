@@ -11,7 +11,7 @@
             <h2>Forgot Password Form</h2>
             <form action="./passwordreset.html">
                 <input type="text" placeholder="username" required><br><br>
-                <input type="password" placeholder="password" required pattern="[A-Za-z\d!@#$%^&*]{8,16}"><br><br>
+                <input type="password" placeholder="password" required pattern="(?=.*[a-z])(?=.*[A-Z])(?=.*[\d])(?=.*[$%&#@]).{8,16}"><br><br>
                 <input type="text" placeholder="otp"><br>
                 <h3>Your otp is 1234</h3>
                 <input type="submit" value="reset password">
