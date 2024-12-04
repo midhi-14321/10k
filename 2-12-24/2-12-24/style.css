@@ -1,0 +1,23 @@
+.a,.b,.c{
+    width:300px;
+    padding:15px;
+    margin:10px;
+    display: inline-block;
+    vertical-align: top;
+}
+.a{
+    background-color: aqua;
+}
+.b{
+    background-color: chocolate;
+}
+.c{
+    background-color: lightgreen;
+}
+.d{
+    width: 1000px;
+    background-color: lightpink;
+    padding: 15px;
+    margin: 10px;
+
+}

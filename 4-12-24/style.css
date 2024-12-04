@@ -1,0 +1,25 @@
+.main{
+    /* height:500px; */
+    /* border:2px solid black; */
+    text-align: center;
+    
+}
+.item-1,.item-2,.item-3,.item-4{
+    /* border: 2px solid black; */
+    height:700px;
+    display: inline-block;
+    width:250px;
+    vertical-align: top;
+    margin:10px;
+    font-family:"Karma", serif;
+    
+}
+h3{
+    font-size: 30px;
+    font-weight: 500;
+
+}
+img{
+    width:100%;
+    margin: 0;
+}
